@@ -1,0 +1,9 @@
+c:\users\percy\documents\visual studio 2015\Projects\Car Game\Car Game\bin\Debug\Car Game.exe.config
+c:\users\percy\documents\visual studio 2015\Projects\Car Game\Car Game\bin\Debug\Car Game.exe
+c:\users\percy\documents\visual studio 2015\Projects\Car Game\Car Game\bin\Debug\Car Game.pdb
+c:\users\percy\documents\visual studio 2015\Projects\Car Game\Car Game\obj\Debug\Car Game.csprojResolveAssemblyReference.cache
+c:\users\percy\documents\visual studio 2015\Projects\Car Game\Car Game\obj\Debug\Car_Game.Form1.resources
+c:\users\percy\documents\visual studio 2015\Projects\Car Game\Car Game\obj\Debug\Car_Game.Properties.Resources.resources
+c:\users\percy\documents\visual studio 2015\Projects\Car Game\Car Game\obj\Debug\Car Game.csproj.GenerateResource.Cache
+c:\users\percy\documents\visual studio 2015\Projects\Car Game\Car Game\obj\Debug\Car Game.exe
+c:\users\percy\documents\visual studio 2015\Projects\Car Game\Car Game\obj\Debug\Car Game.pdb
